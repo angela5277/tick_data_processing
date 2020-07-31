@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/*
+log/*
+*.log
+log.*
+core
+*.xml
+MANIFEST
+dist
+build
+.idea
+*.egg-info
+/.tox/
+venv/*
+.ipynb_checkpoints
